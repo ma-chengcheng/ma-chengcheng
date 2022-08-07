@@ -1,5 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
+<p align="center">
+  <samp>
+    Hi there 👋
+    🔭 I’m currently working on ...
+  </samp>
+</p>
 
 <span align="center">
   <br>
