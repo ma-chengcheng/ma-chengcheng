@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-  ### Hi there 👋, I’m currently learning ...
+  Hi there 👋, I’m currently learning ...
   </samp>
 </p>
 
